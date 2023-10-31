@@ -1,8 +1,9 @@
+import { cart } from './assets/cart.svg'
 
 function CartWidget() {
     return (
         <div>
-            esto es un carrito
+            <img src="{cart}" alt="cart-widget" />
         </div>
     )
 }

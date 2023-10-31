@@ -3,11 +3,11 @@ import CartWidget from "../CartWidget/CartWidget"
 function Navbar() {
   return (
       <nav>
-          <h3> Mi Ecommerce</h3>
+          <h3> Mi Tiendita de Componentes</h3>
           <div>
-              <button> dulce </button>
-              <button> salado </button>
-              <button> umami </button>
+              <button> Componentes Divertidos </button>
+              <button> Componentes Serios </button>
+              <button> Componentes Mixtos </button>
           </div>
           <CartWidget/>
           </nav>
