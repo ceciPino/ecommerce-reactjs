@@ -4,6 +4,7 @@ function CartWidget() {
     return (
         <div>
             <img src="{cart}" alt="cart-widget" />
+            0git 
         </div>
     )
 }
